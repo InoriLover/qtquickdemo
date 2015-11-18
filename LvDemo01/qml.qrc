@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>lvdemo01/Basis/Code/Rectangle/rectangleDemo.qml</file>
         <file>lvdemo01/Basis/Code/Item/itemDemo.qml</file>
+        <file>lvdemo01/AfterAnswer/Chapter01/Item/answer.qml</file>
     </qresource>
 </RCC>
