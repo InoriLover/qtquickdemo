@@ -1,0 +1,21 @@
+import QtQuick 2.2
+
+Rectangle{
+    width: 500;
+    height: 500;
+    color: "lightgray";
+    Rectangle{
+        width: 100;
+        height: 100;
+        gradient: Gradient{
+            GradientStop{ position: 0.0; color: "red"}
+            GradientStop{ position: 1.0; color: "#880088"}
+        }
+        border.width: 3;
+        border.color: "#111111";
+        radius: 10;
+        antialiasing: true;
+    }
+
+}
+
