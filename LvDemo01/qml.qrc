@@ -4,5 +4,7 @@
         <file>lvdemo01/Basis/Code/Rectangle/rectangleDemo.qml</file>
         <file>lvdemo01/Basis/Code/Item/itemDemo.qml</file>
         <file>lvdemo01/AfterAnswer/Chapter01/Item/answer.qml</file>
+        <file>lvdemo01/Basis/Code/Text/textDemo.qml</file>
+        <file>lvdemo01/AfterAnswer/Chapter01/Text/answer.qml</file>
     </qresource>
 </RCC>
