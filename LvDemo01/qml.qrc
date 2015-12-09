@@ -11,6 +11,6 @@
         <file>lvdemo01/Basic/Code/Image/imageDemo.qml</file>
         <file>lvdemo01/AfterAnswer/Basic/Image/answer.qml</file>
         <file>lvdemo01/Basic/Code/Summary/ColorPicker.qml</file>
-        <file>lvdemo01/Basic/Code/Summary/test.qml</file>
+        <file>lvdemo01/Layout/Code/Row/rowDemo.qml</file>
     </qresource>
 </RCC>
