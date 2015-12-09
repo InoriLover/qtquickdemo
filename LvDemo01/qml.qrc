@@ -6,5 +6,11 @@
         <file>lvdemo01/AfterAnswer/Chapter01/Item/answer.qml</file>
         <file>lvdemo01/Basis/Code/Text/textDemo.qml</file>
         <file>lvdemo01/AfterAnswer/Chapter01/Text/answer.qml</file>
+        <file>lvdemo01/Basic/Code/MouseArea/mouseAreaDemo.qml</file>
+        <file>lvdemo01/AfterAnswer/Basic/MouseArea/answer.qml</file>
+        <file>lvdemo01/Basic/Code/Image/imageDemo.qml</file>
+        <file>lvdemo01/AfterAnswer/Basic/Image/answer.qml</file>
+        <file>lvdemo01/Basic/Code/Summary/ColorPicker.qml</file>
+        <file>lvdemo01/Basic/Code/Summary/test.qml</file>
     </qresource>
 </RCC>
