@@ -12,5 +12,11 @@
         <file>lvdemo01/AfterAnswer/Basic/Image/answer.qml</file>
         <file>lvdemo01/Basic/Code/Summary/ColorPicker.qml</file>
         <file>lvdemo01/Layout/Code/Row/rowDemo.qml</file>
+        <file>lvdemo01/Layout/Code/Column/columnDemo.qml</file>
+        <file>lvdemo01/Layout/Code/Grid/gridDemo.qml</file>
+        <file>lvdemo01/Layout/Code/Flow/flowDemo.qml</file>
+        <file>lvdemo01/Layout/Code/GridLayout/gridLayoutDemo.qml</file>
+        <file>lvdemo01/Layout/Code/RowLayout/rowLayoutDemo.qml</file>
+        <file>lvdemo01/Layout/Code/ColumnLayout/columnLayoutDemo.qml</file>
     </qresource>
 </RCC>
