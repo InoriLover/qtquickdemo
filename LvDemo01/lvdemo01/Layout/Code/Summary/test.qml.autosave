@@ -58,7 +58,8 @@ Item {
                 MouseArea{
                     anchors.fill: parent;
                     onClicked: {
-
+                        resetProperty("images/material01.png",0,20,Grid.LeftToRight);
+                        currentStyleIndex=0;
                     }
                 }
             }
