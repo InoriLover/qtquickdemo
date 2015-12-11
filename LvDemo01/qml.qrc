@@ -18,5 +18,7 @@
         <file>lvdemo01/Layout/Code/GridLayout/gridLayoutDemo.qml</file>
         <file>lvdemo01/Layout/Code/RowLayout/rowLayoutDemo.qml</file>
         <file>lvdemo01/Layout/Code/ColumnLayout/columnLayoutDemo.qml</file>
+        <file>lvdemo01/Layout/Code/Summary/MultiLayout.qml</file>
+        <file>lvdemo01/Layout/Code/Summary/test.qml</file>
     </qresource>
 </RCC>
